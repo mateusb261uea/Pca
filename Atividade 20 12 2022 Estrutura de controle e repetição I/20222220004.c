@@ -6,7 +6,7 @@ int main(){
     int num_maior = 0;
     int num_menor = 0;
 
-    for (contador=0; contador<4; contador++){
+    for (contador=0; contador<20; contador++){
 
         printf("digite um numero: ");
         scanf("%d", & temp);
